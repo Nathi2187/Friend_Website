@@ -298,7 +298,7 @@
       animation: fillBar 2s ease 3.8s forwards;
     }
 
-    @keyframes fillBar { to { width: 47%; } }
+    @keyframes fillBar { to { width: 23%; } }
 
     .status-sub {
       font-size: 11px;
